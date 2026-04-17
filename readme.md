@@ -1,6 +1,5 @@
 # Nikhil
 
-## What I'm working on
 
 ## What I'm working on
 - **[Cryptic](https://github.com/nnbgit05/cryptic)** — locally hosted password manager with secure authentication, PostgreSQL-backed storage, and Redis-based session management.
